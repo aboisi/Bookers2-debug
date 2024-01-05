@@ -12,4 +12,6 @@ class RelationshipsController < ApplicationController
     redirect_to request.referer  
   end
   
+  
+  
 end
